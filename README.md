@@ -1,6 +1,6 @@
 <div align="center">
 <!--   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  /> -->
-  <img height="150" src="https://raw.githubusercontent.com/choyon-ugv/choyon-ugv/refs/heads/master/full-stack-development.gif"  />
+  <img src="https://raw.githubusercontent.com/choyon-ugv/choyon-ugv/refs/heads/master/full-stack-development.gif"  />
 </div>
 
 ###
