@@ -66,7 +66,7 @@
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=badsha-ugv&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  /> -->
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=badsha-ugv&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  /> -->
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=badsha-ugv&show_icons=true&line_height=27&count_private=true&title_color=ED688E&text_color=ffffff&icon_color=2bbc8a&bg_color=282A36" alt="" />
-
+<br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=badsha-ugv&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
